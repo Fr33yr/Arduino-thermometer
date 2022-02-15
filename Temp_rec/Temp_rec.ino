@@ -1,8 +1,6 @@
 #define TEMP_SENSOR1 0
 #define TEMP_SENSOR2 1
 
-#define LED_YELLOW 13
-#define LED_BLUE 12
 
 void setup() {
   Serial.begin(9600);
